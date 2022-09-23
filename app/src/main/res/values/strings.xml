@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CarRaceGame</string>
+    <string name="score_0">Score: 0</string>
+    <string name="start">Start</string>
 </resources>
